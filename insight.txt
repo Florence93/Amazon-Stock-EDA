@@ -1,0 +1,12 @@
+How has Amazon’s stock price changed over the last 5 years?
+Is Amazon's stock growth consistent, or are there significant periods of volatility?
+Which of Amazon's competitors (Walmart, eBay, Alibaba) has shown the most similar growth pattern?
+How does Amazon’s stock performance compare with the S&P 500 index?
+Has Amazon consistently outperformed the overall market, or are there periods where it lagged behind?
+What does Amazon’s correlation with the S&P 500 reveal about its sensitivity to overall market movements?
+How correlated is Amazon’s stock with those of Walmart, eBay, and Alibaba?
+What significant market events (e.g., economic crises, regulatory changes) have impacted Amazon’s stock price in the last 5 years?
+How do Amazon’s moving averages compare to its competitors and the S&P 500?
+What does the Relative Strength Index (RSI) indicate about Amazon’s stock momentum compared to its competitors?
+How has the trading volume for Amazon’s stock changed over time, especially during significant price movements?
+Is there a relationship between trading volume spikes and significant price changes for Amazon?
